@@ -1,3 +1,5 @@
+android/
+exports/
 # Godot-specific ignores
 .import/
 export.cfg
